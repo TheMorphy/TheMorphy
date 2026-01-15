@@ -16,6 +16,4 @@ I even built a prototype tool to test creatives directly in Instagram / TikTok f
 ![](https://nirzak-streak-stats.vercel.app/?user=TheMorphy&theme=dark&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TheMorphy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
