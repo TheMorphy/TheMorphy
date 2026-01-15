@@ -18,25 +18,21 @@ I even built a prototype tool to test creatives directly in Instagram / TikTok f
 <table border="0">
   <tr>
     <td align="center" style="border:none;">
-      <a href="https://github.com/TheMorphy/project-one">
+      <a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.SneakyGames">
         <img src="./media/SneakyGames.gif" width="300" />
       </a>
       <br />
-      <a href="https://github.com/TheMorphy/project-one"><strong>Sneaky Games</strong></a>
+      <a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.SneakyGames"><strong>Sneaky Games on Google Play</strong></a>
     </td>
     <td align="center" style="border:none;">
-      <a href="https://github.com/TheMorphy/project-two">
-        <img src="./media/SneakyGames.gif" width="300" />
+      <a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.PenguinEscape">
+        <img src="./media/PenguinEscape.gif" width="300" />
       </a>
       <br />
-      <a href="https://github.com/TheMorphy/project-two"><strong>Penguin Escape</strong></a>
+      <a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.PenguinEscape"><strong>Penguin Escape on Google Play</strong></a>
     </td>
   </tr>
 </table>
 
-
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=TheMorphy&theme=dark&hide_border=false)<br/>
-
----
-
