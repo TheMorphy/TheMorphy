@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Max<br><br>I am a Senior Unity Game Developer with 9+ years of professional experience, combining strong engineering skills with deep expertise in game feel, UI/UX, and player experience
+👋 Hello, I'm Max<br><br>I make games
 
 
 ## 🌐 Socials:
