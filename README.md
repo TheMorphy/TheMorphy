@@ -1,6 +1,12 @@
 # 💧 About Me:
-👋 Hello, I'm Max<br><br>I make games with Unity
+👋 Hello, I'm Max<br><br>I make game with Unity for almost a decade now.
 
+I live for the small details: perfect animation timing, responsive controls, satisfying interactions, fun physics, and that spark of joy when everything just flows. I strongly believe these details are what separate a good game from a great, commercially successful one.
+
+I’m also deeply passionate about ad creatives and CPI campaigns. I enjoy designing and prototyping creatives that clearly communicate fun and achieve strong UA performance.
+
+I even built a prototype tool to test creatives directly in Instagram / TikTok feed context:
+👉 https://stopscroll.vercel.app/
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=linkedin&logoColor=white)](https://t.me/justmorphy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxmorphy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mexmex999@gmail.com)
