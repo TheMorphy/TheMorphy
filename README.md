@@ -113,7 +113,7 @@ I even built a prototype tool to test creatives directly in Instagram / TikTok f
 <tr>
 <td align="center">
 <a href="https://stopscroll.vercel.app/">
-<img src="./media/SneakyGames.gif" width="350" />
+<img src="./media/StopScroll.png" width="350" />
 </a>
 <br />
 <a href="https://stopscroll.vercel.app/"><strong>StopScroll.ai</strong></a>
