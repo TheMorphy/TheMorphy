@@ -13,7 +13,7 @@ I even built a prototype tool to test creatives directly in Instagram / TikTok f
 # 💻 Tech Stack:
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-# 📊 Latest Projects:
+# 🎮 Latest Games:
 
 <table border="0">
 <tr>
@@ -36,7 +36,7 @@ I even built a prototype tool to test creatives directly in Instagram / TikTok f
 <img src="./media/PenguinEscape.gif" width="350" />
 </a>
 <br />
-<a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.PenguinEscape"><strong>Penguin Escape pn Google Play</strong></a>
+<a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.PenguinEscape"><strong>Penguin Escape on Google Play</strong></a>
 <br />
 <sub>Smash obstacles to help a brave penguin reunite with his love! 💑</sub>
 <br />
@@ -103,6 +103,39 @@ I even built a prototype tool to test creatives directly in Instagram / TikTok f
 <sub><b>Role:</b> Team Lead | Game Designer | Producer | Ads</sub>
 <br />
 <sub><b>Release:</b> May 2023</sub>
+</td>
+</tr>
+</table>
+
+# ✨ Other Projects:
+
+<table border="0">
+<tr>
+<td align="center">
+<a href="https://stopscroll.vercel.app/">
+<img src="./media/SneakyGames.gif" width="350" />
+</a>
+<br />
+<a href="https://stopscroll.vercel.app/"><strong>StopScroll.ai</strong></a>
+<br />
+<sub>Future SaaS project designed to help test ad creatives in context</sub>
+<br />
+<sub><b>Role:</b> CEO</sub>
+<br />
+<sub><b>Release:</b> TBA</sub>
+</td>
+
+<td align="center">
+<img src="./media/PenguinEscape.gif" width="350" />
+</a>
+<br />
+<strong>Self Teleportation</strong></a>
+<br />
+<sub>Unity VR project aimed at helping people connect and <br> helping people with disabilities</sub>
+<br />
+<sub><b>Role:</b> Lead Unity Developer</sub>
+<br />
+<sub><b>Release:</b> TBA</sub>
 </td>
 </tr>
 </table>
