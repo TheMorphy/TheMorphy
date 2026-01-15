@@ -15,21 +15,21 @@ I even built a prototype tool to test creatives directly in Instagram / TikTok f
 
 # 📊 Latest Projects:
 
-<table>
+<table border="0">
   <tr>
-    <td align="center">
+    <td align="center" style="border:none;">
       <a href="https://github.com/TheMorphy/project-one">
-        <img src="./media/SneakyGames.gif" width="250" />
+        <img src="./media/SneakyGames.gif" width="300" />
       </a>
       <br />
       <a href="https://github.com/TheMorphy/project-one"><strong>Sneaky Games</strong></a>
     </td>
-    <td align="center">
+    <td align="center" style="border:none;">
       <a href="https://github.com/TheMorphy/project-two">
-        <img src="https://gif2.gif" width="250" />
+        <img src="./media/SneakyGames.gif" width="300" />
       </a>
       <br />
-      <a href="https://github.com/TheMorphy/project-two"><strong>Project Two</strong></a>
+      <a href="https://github.com/TheMorphy/project-two"><strong>Penguin Escape</strong></a>
     </td>
   </tr>
 </table>
