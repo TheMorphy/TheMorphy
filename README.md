@@ -1,5 +1,5 @@
 # 💧 About Me:
-👋 Hello, I'm Max<br><br>I make game with Unity for almost a decade now.
+👋 Hello, I'm Max<br><br>I make games with Unity for almost a decade now.
 
 I live for the small details: perfect animation timing, responsive controls, satisfying interactions, fun physics, and that spark of joy when everything just flows. I strongly believe these details are what separate a good game from a great, commercially successful one.
 
