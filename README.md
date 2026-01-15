@@ -122,11 +122,11 @@ I even built a prototype tool to test creatives directly in Instagram / TikTok f
 <br />
 <sub><b>Role:</b> CEO</sub>
 <br />
-<sub><b>Release:</b> TBA</sub>
+<sub><b>Release:</b> Ongoing/TBA</sub>
 </td>
 
 <td align="center">
-<img src="./media/PenguinEscape.gif" width="350" />
+<img src="./media/Teleporter.gif" width="350" />
 </a>
 <br />
 <strong>Self Teleportation</strong></a>
@@ -135,7 +135,7 @@ I even built a prototype tool to test creatives directly in Instagram / TikTok f
 <br />
 <sub><b>Role:</b> Lead Unity Developer</sub>
 <br />
-<sub><b>Release:</b> TBA</sub>
+<sub><b>Release:</b> Ongoing/TBA</sub>
 </td>
 </tr>
 </table>
