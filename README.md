@@ -32,6 +32,14 @@ I even built a prototype tool to test creatives directly in Instagram / TikTok f
       <a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.PenguinEscape"><strong>Penguin Escape on Google Play</strong></a>
     </td>
   </tr>
+  <td align="center" style="border:none;">
+      <a href="https://play.google.com/store/apps/details?id=com.magneticBall3D.app">
+        <img src="./media/MagneticBall.gif" width="300" />
+      </a>
+      <br />
+      <a href="https://play.google.com/store/apps/details?id=com.magneticBall3D.app"><strong>Magnetic Ball on Google Play</strong></a>
+    </td>
+  </tr>
 </table>
 
 # 📊 GitHub Stats:
