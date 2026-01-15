@@ -16,30 +16,95 @@ I even built a prototype tool to test creatives directly in Instagram / TikTok f
 # 📊 Latest Projects:
 
 <table border="0">
-  <tr>
-    <td align="center" style="border:none;">
-      <a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.SneakyGames">
-        <img src="./media/SneakyGames.gif" width="350" />
-      </a>
-      <br />
-      <a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.SneakyGames"><strong>Sneaky Games on Google Play</strong></a>
-    </td>
-    <td align="center" style="border:none;">
-      <a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.PenguinEscape">
-        <img src="./media/PenguinEscape.gif" width="350" />
-      </a>
-      <br />
-      <a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.PenguinEscape"><strong>Penguin Escape on Google Play</strong></a>
-    </td>
-  </tr>
-  <td align="center" style="border:none;">
-      <a href="https://play.google.com/store/apps/details?id=com.magneticBall3D.app">
-        <img src="./media/MagneticBall.gif" width="350" />
-      </a>
-      <br />
-      <a href="https://play.google.com/store/apps/details?id=com.magneticBall3D.app"><strong>Magnetic Ball on Google Play</strong></a>
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.SneakyGames">
+<img src="./media/SneakyGames.gif" width="350" />
+</a>
+<br />
+<a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.SneakyGames"><strong>Sneaky Games on Google Play</strong></a>
+<br />
+<sub>Bet smart. Play dirty. Win the race. 🏁</sub>
+<br />
+<sub><b>Role:</b> Lead Developer | UI/UX | Game Feel | Ads</sub>
+<br />
+<sub><b>Release:</b> Dec 2025</sub>
+</td>
+
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.PenguinEscape">
+<img src="./media/PenguinEscape.gif" width="350" />
+</a>
+<br />
+<a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.PenguinEscape"><strong>Penguin Escape pn Google Play</strong></a>
+<br />
+<sub>Smash obstacles to help a brave penguin reunite with his love! 💑</sub>
+<br />
+<sub><b>Role:</b> Lead Developer | UI/UX | Game Feel | Ads</sub>
+<br />
+<sub><b>Release:</b> Sep 2025</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://play.google.com/store/apps/details?id=com.magneticBall3D.app">
+<img src="./media/MagneticBall.gif" width="350" />
+</a>
+<br />
+<a href="https://play.google.com/store/apps/details?id=com.magneticBall3D.app"><strong>Magnetic Ball on Google Play</strong></a>
+<br />
+<sub>Survivor game built in a custom engine</sub>
+<br />
+<sub><b>Role:</b> Game Designer | Producer</sub>
+<br />
+<sub><b>Release:</b> Nov 2024</sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/TheMorphy/PlaneMaster3D">
+<img src="./media/PlaneMaster.gif" width="350" />
+</a>
+<br />
+<a href="https://github.com/TheMorphy/PlaneMaster3D"><strong>Plane Master Repo</strong></a>
+<br />
+<sub>Arcade idle game about repairing planes</sub>
+<br />
+<sub><b>Role:</b> Team Lead | Game Designer | Producer | Ads</sub>
+<br />
+<sub><b>Release:</b> Oct 2022</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://github.com/TheMorphy/HitAndDrive">
+<img src="./media/HitAndDrive.gif" width="350" />
+</a>
+<br />
+<a href="https://github.com/TheMorphy/HitAndDrive"><strong>Hit and Drive Repo</strong></a>
+<br />
+<sub>Hyper casual runner with car evolution</sub>
+<br />
+<sub><b>Role:</b> Team Lead | Game Designer | Producer | Ads</sub>
+<br />
+<sub><b>Release:</b> Mar 2022</sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/TheMorphy/Stretchy">
+<img src="./media/Stretchy.gif" width="350" />
+</a>
+<br />
+<a href="https://github.com/TheMorphy/Stretchy"><strong>Stretchy Repo</strong></a>
+<br />
+<sub>Hyper casual puzzle</sub>
+<br />
+<sub><b>Role:</b> Team Lead | Game Designer | Producer | Ads</sub>
+<br />
+<sub><b>Release:</b> May 2023</sub>
+</td>
+</tr>
 </table>
 
 # 📊 GitHub Stats:
