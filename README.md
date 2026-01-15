@@ -19,14 +19,14 @@ I even built a prototype tool to test creatives directly in Instagram / TikTok f
   <tr>
     <td align="center" style="border:none;">
       <a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.SneakyGames">
-        <img src="./media/SneakyGames.gif" width="400" />
+        <img src="./media/SneakyGames.gif" width="350" />
       </a>
       <br />
       <a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.SneakyGames"><strong>Sneaky Games on Google Play</strong></a>
     </td>
     <td align="center" style="border:none;">
       <a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.PenguinEscape">
-        <img src="./media/PenguinEscape.gif" width="400" />
+        <img src="./media/PenguinEscape.gif" width="350" />
       </a>
       <br />
       <a href="https://play.google.com/store/apps/details?id=com.PharsalusGames.PenguinEscape"><strong>Penguin Escape on Google Play</strong></a>
@@ -34,7 +34,7 @@ I even built a prototype tool to test creatives directly in Instagram / TikTok f
   </tr>
   <td align="center" style="border:none;">
       <a href="https://play.google.com/store/apps/details?id=com.magneticBall3D.app">
-        <img src="./media/MagneticBall.gif" width="400" />
+        <img src="./media/MagneticBall.gif" width="350" />
       </a>
       <br />
       <a href="https://play.google.com/store/apps/details?id=com.magneticBall3D.app"><strong>Magnetic Ball on Google Play</strong></a>
